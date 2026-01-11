@@ -6,10 +6,10 @@
 
 [![Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)  [![Forks](https://img.shields.io/github/forks/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/network/members)  [![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=flat-square)](LICENSE)
 
-دليل شامل للوصول إلى Discord في مصر باستخدام طرق موثوقة لتجاوز الحجب.
+دليل شامل بحلول للوصول إلى Discord في مصر إذا واجهت مشاكل في الاتصال.
 
 > [!NOTE]
-> Discord محجوب حالياً في مصر. يقدم هذا الدليل حلولاً بديلة مشروعة لاستعادة الوصول.
+> لم يتم تأكيد حظر Discord رسمياً في مصر. ومع ذلك، يُبلغ بعض المستخدمين عن مشاكل في الاتصال. يوفر هذا الدليل حلولاً إذا واجهت مشاكل.
 
 ---
 

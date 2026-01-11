@@ -4,10 +4,10 @@
 
 [![Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)  [![Forks](https://img.shields.io/github/forks/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/network/members)  [![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=flat-square)](LICENSE)
 
-A comprehensive guide to accessing Discord in Egypt using reliable bypass methods.
+A comprehensive guide with solutions for accessing Discord in Egypt if you experience connection issues.
 
 > [!NOTE]
-> Discord is currently restricted in Egypt. This guide provides legitimate workarounds to restore access.
+> Discord is not officially confirmed to be banned in Egypt. However, some users report connectivity issues. This guide provides solutions if you encounter problems.
 
 ---
 
