@@ -1,4 +1,4 @@
-# Contributing to FixDiscordEgypt
+# Contributing to discord-egypt-guide
 
 Thank you for your interest in helping others access Discord in Egypt! This guide explains how to contribute.
 
@@ -50,8 +50,8 @@ Click the "Fork" button at the top right of this repository.
 ### Step 2: Clone
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/FixDiscordEgypt.git
-cd FixDiscordEgypt
+git clone https://github.com/AhmedV20/discord-egypt-guide.git
+cd discord-egypt-guide
 ```
 
 ### Step 3: Create a Branch

@@ -4,7 +4,7 @@
 
 **[English](README.md)** | العربية
 
-[![Stars](https://img.shields.io/github/stars/YOUR-USERNAME/FixDiscordEgypt?style=flat-square)](https://github.com/YOUR-USERNAME/FixDiscordEgypt/stargazers)  [![Forks](https://img.shields.io/github/forks/YOUR-USERNAME/FixDiscordEgypt?style=flat-square)](https://github.com/YOUR-USERNAME/FixDiscordEgypt/network/members)  [![License](https://img.shields.io/github/license/YOUR-USERNAME/FixDiscordEgypt?style=flat-square)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)  [![Forks](https://img.shields.io/github/forks/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/network/members)  [![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=flat-square)](LICENSE)
 
 دليل شامل للوصول إلى Discord في مصر باستخدام طرق موثوقة لتجاوز الحجب.
 
