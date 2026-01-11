@@ -138,8 +138,9 @@ Vesktop is an open-source, third-party Discord client built with Electron. It in
 1. Go to https://vesktop.dev/install/windows/
 2. Click "Download Vesktop Installer" (recommended) or download the portable `.zip`.
 3. Run the installer and follow the prompts.
-4. Launch Vesktop from the Start menu.
-5. Log in with your Discord credentials.
+4. Launch Vesktop from the Start menu or click "Finish" after setup.
+5. Wait a few seconds on first launch — the app takes time to initialize and load the Discord login screen.
+6. Log in with your Discord credentials.
 
 **macOS:**
 
@@ -309,10 +310,26 @@ A VPN (Virtual Private Network) encrypts your internet traffic and routes it thr
 3. Download the desktop client for your OS.
 4. Run the installer and complete the setup.
 5. Launch Windscribe and log in.
-6. Click the power button to connect automatically, OR:
-7. Expand the location list and select a country (recommended: UK, Germany, or Netherlands).
-8. Wait for "Connected" status.
-9. Open Discord — it should work immediately.
+
+**Configure Split Tunneling (Recommended for Discord only):**
+
+6. Click the menu (☰) → **Connection**.
+7. Find **Split Tunneling** and change mode to **Inclusive**.
+8. Click **Apps** and add these files:
+   - `Discord.exe` — Find on Desktop shortcut or Start menu
+   - `Update.exe` — Located at `C:\Users\YOUR_USERNAME\AppData\Local\Discord\`
+   
+   > **Tip:** Right-click Discord icon → Properties → Open File Location to find `Update.exe`
+
+9. Go back to **Connection** settings and configure:
+   - **Firewall Mode:** Manual
+   - **Connection Mode:** Manual
+   - **Protocol:** Stealth
+   - **Port:** 443
+
+10. Return to the main screen and click the power button to connect.
+11. Choose a specific server or select "Best Location" (Windscribe picks the fastest).
+12. Open Discord — it should work immediately.
 
 **Mobile:**
 
