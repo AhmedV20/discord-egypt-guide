@@ -1,17 +1,24 @@
-# 🔓 Unblock Discord in Egypt (2026) - Guide
-
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)  [![Forks](https://img.shields.io/github/forks/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/network/members)  [![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=flat-square)](LICENSE)  [![CI](https://img.shields.io/github/actions/workflow/status/AhmedV20/discord-egypt-guide/ci.yml?style=flat-square&label=CI)](https://github.com/AhmedV20/discord-egypt-guide/actions)
+<p align="center">
+  <img alt="Discord-Egypt" src="assets/icon.png" width="160" style="border-radius: 50%">
+</p>
+
+
+[![GitHub Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=for-the-badge&logo=github&logoColor=white&color=5865f2)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)
+[![Build & Test](https://img.shields.io/github/actions/workflow/status/AhmedV20/discord-egypt-guide/ci.yml?style=for-the-badge&logo=github-actions&logoColor=white&label=Build%20%26%20Test&color=ec4899)](https://github.com/AhmedV20/discord-egypt-guide/actions)
+[![Last Commit](https://img.shields.io/github/last-commit/AhmedV20/discord-egypt-guide?style=for-the-badge&logo=git&logoColor=white&color=f59e0b)](https://github.com/AhmedV20/discord-egypt-guide/commits)
+[![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=6366f1)](https://github.com/AhmedV20/discord-egypt-guide/blob/main/LICENSE)
+
+
+Comprehensive guide to unblock Discord in Egypt, Available in English & Arabic.
 
 **[العربية](README_AR.md)** | English
 
 </div>
 
-Complete 2026 guide to unblock Discord in Egypt - 4 proven methods (WARP, Vesktop, Discord-Drover, VPN) with step-by-step tutorials. Free solutions available! 🇪🇬
-
 > [!NOTE]
-> ⚠️ **Connection Issues?** While Discord isn't officially banned in Egypt, users frequently experience blocks from ISPs like WE, Vodafone, Orange, and Etisalat. This guide provides **4 working solutions** updated for January 2026.
+> **Connection Issues?** While Discord isn't officially banned in Egypt, users frequently experience blocks from ISPs like WE, Vodafone, Orange, and Etisalat. This guide provides **4 working solutions** updated for January 2026.
 
 ---
 
