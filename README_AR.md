@@ -2,15 +2,13 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="Discord Egypt Guide Logo" width="300" style="border-radius: 50%;">
-
 [![Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)  [![Forks](https://img.shields.io/github/forks/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/network/members)  [![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=flat-square)](LICENSE)  [![CI](https://img.shields.io/github/actions/workflow/status/AhmedV20/discord-egypt-guide/ci.yml?style=flat-square&label=CI)](https://github.com/AhmedV20/discord-egypt-guide/actions)
 
 **[English](README.md)** | العربية
 
-دليل شامل لعام 2026 لفتح Discord في مصر - 4 طرق مجربة (WARP, Vesktop, Discord-Drover, VPN) مع شرح خطوة بخطوة. حلول مجانية متوفرة! 🇪🇬
-
 </div>
+
+دليل شامل لعام 2026 لفتح Discord في مصر - 4 طرق مجربة (WARP, Vesktop, Discord-Drover, VPN) مع شرح خطوة بخطوة. حلول مجانية متوفرة! 🇪🇬
 
 <div dir="rtl" align="right">
 
