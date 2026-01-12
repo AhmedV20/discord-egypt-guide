@@ -1,22 +1,28 @@
-# Discord Access Guide for Egypt
+# 🔓 Discord Egypt Guide - Unblock Discord in Egypt (2026)
+
+<div align="center">
+
+<img src="assets/logo.png" alt="Discord Egypt Guide Logo" width="150" style="border-radius: 50%;">
+
+[![Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)  [![Forks](https://img.shields.io/github/forks/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/network/members)  [![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=flat-square)](LICENSE)  [![CI](https://img.shields.io/github/actions/workflow/status/AhmedV20/discord-egypt-guide/ci.yml?style=flat-square&label=CI)](https://github.com/AhmedV20/discord-egypt-guide/actions)
 
 **[العربية](README_AR.md)** | English
 
-[![Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)  [![Forks](https://img.shields.io/github/forks/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/network/members)  [![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=flat-square)](LICENSE)
+Complete 2026 guide to unblock Discord in Egypt - 4 proven methods (WARP, Vesktop, Discord-Drover, VPN) with step-by-step tutorials. Free solutions available! 🇪🇬
 
-A comprehensive guide with solutions for accessing Discord in Egypt if you experience connection issues.
+</div>
 
 > [!NOTE]
-> Discord is not officially confirmed to be banned in Egypt. However, some users report connectivity issues. This guide provides solutions if you encounter problems.
+> ⚠️ **Connection Issues?** While Discord isn't officially banned in Egypt, users frequently experience blocks from ISPs like WE, Vodafone, Orange, and Etisalat. This guide provides **4 working solutions** updated for January 2026.
 
 ---
 
 ## Table of Contents
 
-- [Method 1: Cloudflare WARP](#method-1-cloudflare-warp)
-- [Method 2: Vesktop](#method-2-vesktop)
-- [Method 3: Discord-Drover](#method-3-discord-drover)
-- [Method 4: VPN Services](#method-4-vpn-services-windscribe)
+- [Method 1: Cloudflare WARP (Easiest & Free)](#method-1-cloudflare-warp-easiest--free---recommended-for-beginners)
+- [Method 2: Vesktop (No VPN Needed)](#method-2-vesktop-no-vpn-needed---alternative-discord-client)
+- [Method 3: Discord-Drover (Voice Chat Fix)](#method-3-discord-drover-voice-chat-fix---windows-only)
+- [Method 4: VPN - Windscribe (Full Privacy)](#method-4-vpn---windscribe-full-privacy---10gb-free)
 - [Common Problems in Egypt](#common-problems-in-egypt)
 - [Method Comparison](#method-comparison)
 - [Contributing](#contributing)
@@ -24,7 +30,7 @@ A comprehensive guide with solutions for accessing Discord in Egypt if you exper
 
 ---
 
-## Method 1: Cloudflare WARP
+## Method 1: Cloudflare WARP (Easiest & Free - Recommended for Beginners)
 
 ### Description
 
@@ -100,7 +106,7 @@ Cloudflare WARP is a free, lightweight VPN-like service that routes your traffic
 
 ---
 
-## Method 2: Vesktop
+## Method 2: Vesktop (No VPN Needed - Alternative Discord Client)
 
 ### Description
 
@@ -188,7 +194,7 @@ Vesktop is an open-source, third-party Discord client built with Electron. It in
 
 ---
 
-## Method 3: Discord-Drover
+## Method 3: Discord-Drover (Voice Chat Fix - Windows Only)
 
 ### Description
 
@@ -270,7 +276,7 @@ Discord-Drover is a DLL that forces Discord to use a specified proxy (HTTP/SOCKS
 
 ---
 
-## Method 4: VPN Services (Windscribe)
+## Method 4: VPN - Windscribe (Full Privacy - 10GB Free)
 
 ### Description
 

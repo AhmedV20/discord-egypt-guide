@@ -1,24 +1,30 @@
-<div dir="rtl" align="right">
+# 🔓 دليل Discord مصر - فتح Discord في مصر (2026)
 
-# دليل الوصول إلى Discord في مصر
+<div align="center">
+
+<img src="assets/logo.png" alt="Discord Egypt Guide Logo" width="150" style="border-radius: 50%;">
+
+[![Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)  [![Forks](https://img.shields.io/github/forks/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/network/members)  [![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=flat-square)](LICENSE)  [![CI](https://img.shields.io/github/actions/workflow/status/AhmedV20/discord-egypt-guide/ci.yml?style=flat-square&label=CI)](https://github.com/AhmedV20/discord-egypt-guide/actions)
 
 **[English](README.md)** | العربية
 
-[![Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)  [![Forks](https://img.shields.io/github/forks/AhmedV20/discord-egypt-guide?style=flat-square)](https://github.com/AhmedV20/discord-egypt-guide/network/members)  [![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=flat-square)](LICENSE)
+دليل شامل لعام 2026 لفتح Discord في مصر - 4 طرق مجربة (WARP, Vesktop, Discord-Drover, VPN) مع شرح خطوة بخطوة. حلول مجانية متوفرة! 🇪🇬
 
-دليل شامل بحلول للوصول إلى Discord في مصر إذا واجهت مشاكل في الاتصال.
+</div>
+
+<div dir="rtl" align="right">
 
 > [!NOTE]
-> لم يتم تأكيد حظر Discord رسمياً في مصر. ومع ذلك، يُبلغ بعض المستخدمين عن مشاكل في الاتصال. يوفر هذا الدليل حلولاً إذا واجهت مشاكل.
+> ⚠️ **مشاكل في الاتصال؟** لم يتم حظر Discord رسمياً في مصر، لكن المستخدمين يواجهون حجباً متكرراً من مزودي الخدمة مثل WE وفودافون وأورانج واتصالات. يقدم هذا الدليل **4 حلول عاملة** محدثة ليناير 2026.
 
 ---
 
 ## جدول المحتويات
 
-- [الطريقة الأولى: Cloudflare WARP](#الطريقة-الأولى-cloudflare-warp)
-- [الطريقة الثانية: Vesktop](#الطريقة-الثانية-vesktop)
-- [الطريقة الثالثة: Discord-Drover](#الطريقة-الثالثة-discord-drover)
-- [الطريقة الرابعة: خدمات VPN](#الطريقة-الرابعة-خدمات-vpn-windscribe)
+- [الطريقة الأولى: Cloudflare WARP (الأسهل والمجاني)](#الطريقة-الأولى-cloudflare-warp-الأسهل-والمجاني---موصى-به-للمبتدئين)
+- [الطريقة الثانية: Vesktop (بدون VPN)](#الطريقة-الثانية-vesktop-بدون-vpn---عميل-discord-بديل)
+- [الطريقة الثالثة: Discord-Drover (إصلاح الصوت)](#الطريقة-الثالثة-discord-drover-إصلاح-الصوت---windows-فقط)
+- [الطريقة الرابعة: VPN - Windscribe (خصوصية كاملة)](#الطريقة-الرابعة-vpn---windscribe-خصوصية-كاملة---10-جيجا-مجاناً)
 - [المشاكل الشائعة في مصر](#المشاكل-الشائعة-في-مصر)
 - [مقارنة الطرق](#مقارنة-الطرق)
 - [المساهمة](#المساهمة)
@@ -26,7 +32,7 @@
 
 ---
 
-## الطريقة الأولى: Cloudflare WARP
+## الطريقة الأولى: Cloudflare WARP (الأسهل والمجاني - موصى به للمبتدئين)
 
 ### الوصف
 
@@ -102,7 +108,7 @@ Cloudflare WARP هي خدمة مجانية خفيفة تشبه VPN تقوم بت
 
 ---
 
-## الطريقة الثانية: Vesktop
+## الطريقة الثانية: Vesktop (بدون VPN - عميل Discord بديل)
 
 ### الوصف
 
@@ -190,7 +196,7 @@ Vesktop هو عميل Discord مفتوح المصدر من طرف ثالث مب�
 
 ---
 
-## الطريقة الثالثة: Discord-Drover
+## الطريقة الثالثة: Discord-Drover (إصلاح الصوت - Windows فقط)
 
 ### الوصف
 
@@ -272,7 +278,7 @@ Discord-Drover هو ملف DLL يجبر Discord على استخدام بروكس
 
 ---
 
-## الطريقة الرابعة: خدمات VPN (Windscribe)
+## الطريقة الرابعة: VPN - Windscribe (خصوصية كاملة - 10 جيجا مجاناً)
 
 ### الوصف
 
