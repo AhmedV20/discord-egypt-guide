@@ -6,7 +6,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/AhmedV20/discord-egypt-guide?style=for-the-badge&logo=github&logoColor=white&color=5865f2)](https://github.com/AhmedV20/discord-egypt-guide/stargazers)
 [![Build & Test](https://img.shields.io/github/actions/workflow/status/AhmedV20/discord-egypt-guide/ci.yml?style=for-the-badge&logo=github-actions&logoColor=white&label=Build%20%26%20Test&color=ec4899)](https://github.com/AhmedV20/discord-egypt-guide/actions)
-[![Last Commit](https://img.shields.io/github/last-commit/AhmedV20/discord-egypt-guide?style=for-the-badge&logo=git&logoColor=white&color=f59e0b)](https://github.com/AhmedV20/discord-egypt-guide/commits)
+[![Discord Status](https://img.shields.io/badge/Discord-Unblocked-22c55e?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/AhmedV20/discord-egypt-guide)
 [![License](https://img.shields.io/github/license/AhmedV20/discord-egypt-guide?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=6366f1)](https://github.com/AhmedV20/discord-egypt-guide/blob/main/LICENSE)
 
 دليل شامل لإلغاء حظر ديسكورد في مصر، متوفر باللغتين الإنجليزية والعربية.
@@ -18,7 +18,7 @@
 <div dir="rtl" align="right">
 
 > [!NOTE]
-> **مشاكل في الاتصال؟** لم يتم حظر ديسكورد رسمياً في مصر، لكن المستخدمين يواجهون حجباً متكرراً من مزودي الخدمة مثل WE وفودافون وأورانج واتصالات. يقدم هذا الدليل **4 حلول عاملة** محدثة ليناير 2026.
+> **✅ أخبار جيدة — ديسكورد يعمل في مصر!** لا حاجة لـ فى بى ات أو أدوات تجاوز حالياً. هذا الدليل يبقى متاحاً إذا عاد الحجب أو إذا كنت لا تزال تواجه مشاكل اتصال مع مزود خدمتك.
 
 ---
 
